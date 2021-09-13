@@ -38,7 +38,7 @@
             </div>
 
             <div style="padding: 20px">
-                <label>Phone </label>
+                <label>Phone Number </label>
                 <input type="number" name="phone" placeholder="Add number" style="color: black" required=""/>
                    </div>
 
